@@ -6,7 +6,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - David Adler: https://github.com/dov212
-- Iris Qian: https://github/com/okkiris
+- Iris Qian: https://github.com/okkiris
 - Wenni Fan: https://github.com/fwenni
 - Vincent Xu: https://github.com/yx-xyc
 
