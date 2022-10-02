@@ -61,4 +61,4 @@ As an E-board member, I want to find another club manager interested in our plan
 ![User Story 2](./user_story_2.png)
 
 ## Clickable Prototype
-[Figma Prototype](https://www.figma.com/proto/YPYyqFeO43RzC5cTA6ScTO/Convo-App?node-id=19%3A195&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A2)
+[Figma Prototype](https://www.figma.com/proto/YPYyqFeO43RzC5cTA6ScTO/Convo-App?node-id=28%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=28%3A2)
